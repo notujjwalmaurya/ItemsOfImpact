@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^2.1.1",
+    "express": "^4.18.2"
+  },
+  "name": "waste2cash",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanishaa08/Trash2Cash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanishaa08/Trash2Cash/issues"
+  },
+  "homepage": "https://github.com/Tanishaa08/Trash2Cash#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

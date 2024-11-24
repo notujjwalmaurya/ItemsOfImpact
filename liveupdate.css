@@ -1,0 +1,8 @@
+#live_img {
+    width: 800px;
+    height: 500px;
+    padding-left: 17%;
+    padding-top: 3%;
+    display: grid;
+    place-items: center;
+}

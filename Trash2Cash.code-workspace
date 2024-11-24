@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Waste2Cash",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Waste2Cash",
+		"liveServer.settings.port": 5501
+	}
+}
